@@ -13,7 +13,7 @@ cap.set(3, 640)  # Set the width of the frame
 cap.set(4, 480)  # Set the height of the frame
 
 # Load the YOLO model for detecting objects (path to the trained model)
-model = YOLO("../models/n_version_3_50.pt")
+model = YOLO("../models/n_version_4_75.pt")
 
 # Define the class names for detection ("fake" and "real")
 classNames = ["fake", "real"]

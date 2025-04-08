@@ -17,7 +17,7 @@ In summary, this face recognition attendance system offers a reliable, scalable,
 
 REQUIRED INSTALLATION:
 ```bash
-pip install opencv-python face_recognition firebase-admin ultralytics numpy cmake
+pip install opencv-python face_recognition firebase-admin ultralytics numpy cmake dlib
 ```
 
 make sure you also install Visual C++ Build Tools from:

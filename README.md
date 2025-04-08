@@ -14,4 +14,7 @@ This project can be expanded further by integrating anti-spoofing techniques to 
 In summary, this face recognition attendance system offers a reliable, scalable, and user-friendly solution for automating attendance using computer vision and cloud integration.
 
 File strusture for reference:
+
+
+
 ![image](https://github.com/user-attachments/assets/4e589619-40ae-412c-a141-be843f5c93ea)

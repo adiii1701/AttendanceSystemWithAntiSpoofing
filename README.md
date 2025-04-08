@@ -22,7 +22,7 @@ make sure you also install Visual C++ Build Tools from:
 
 
 
-File strusture for reference:
+File structure for reference:
 
 
 

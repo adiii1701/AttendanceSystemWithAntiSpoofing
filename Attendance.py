@@ -12,7 +12,7 @@ from firebase_admin import db
 # Initialize Firebase app using the provided service account key and set the database URL.
 cred = credentials.Certificate("serviceAccountKey.json")
 firebase_admin.initialize_app(cred, {
-    'databaseURL': "https://faceattendancerealtime-2e6b8-default-rtdb.firebaseio.com/"
+    'databaseURL': " "  # create a live database at firebase console and place it here
 })
 
 # Initialize camera capture (webcam) with specific width and height settings.

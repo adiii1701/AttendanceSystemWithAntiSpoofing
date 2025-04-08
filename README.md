@@ -1,3 +1,5 @@
+# Real time Attendadnce system with Anti-spoofing
+
 Real-Time Face Recognition Attendance System
 This project is a real-time face recognition-based attendance system built using Python, OpenCV, and Firebase. It automates the attendance process by detecting and recognizing faces from a webcam feed, then marking attendance in a Firebase Realtime Database. This system is designed for educational institutions looking to modernize their attendance tracking methods.
 
@@ -14,8 +16,9 @@ This project can be expanded further by integrating anti-spoofing techniques to 
 In summary, this face recognition attendance system offers a reliable, scalable, and user-friendly solution for automating attendance using computer vision and cloud integration.
 
 REQUIRED INSTALLATION:
+```bash
 pip install opencv-python face_recognition firebase-admin ultralytics numpy cmake
-
+```
 
 make sure you also install Visual C++ Build Tools from:
 👉 https://visualstudio.microsoft.com/visual-cpp-build-tools/

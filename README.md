@@ -13,6 +13,15 @@ This project can be expanded further by integrating anti-spoofing techniques to 
 
 In summary, this face recognition attendance system offers a reliable, scalable, and user-friendly solution for automating attendance using computer vision and cloud integration.
 
+REQUIRED INSTALLATION:
+pip install opencv-python face_recognition firebase-admin ultralytics numpy cmake
+
+
+make sure you also install Visual C++ Build Tools from:
+👉 https://visualstudio.microsoft.com/visual-cpp-build-tools/
+
+
+
 File strusture for reference:
 
 
